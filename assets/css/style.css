@@ -108,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing  {
+#search-engine-optimization, .online-reputation-management, .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -118,12 +118,12 @@ p {
 }
 
 
-.search-engine-optimization img, .social-media-marketing img, .online-reputation-management img  {
+#search-engine-optimization img, .social-media-marketing img, .online-reputation-management img  {
  
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .social-media-marketing h2, .online-reputation-management h2 {
+#search-engine-optimization h2, .social-media-marketing h2, .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
